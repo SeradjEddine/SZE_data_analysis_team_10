@@ -1,0 +1,48 @@
+Section #3(occupation in education):
+
+Q1: what occupational level in education do men and woman occupy the most
+Answer: 
+after looking at the mean value of teacher genders across all educational levels we can see that overall: 
+
+-woman dominate in the primary education taking up to 70% of primary teaching occupations. 
+-Man dominate in the tertiary education level taking close to 65% of possessions
+
+- in the secondary education the distribution is pretty much even between the two genders. 
+
+this trend is also reflected when looking at the number of countries where a particular gender is dominant:
+
+-the majority of countries have more Women occupied in primary education and more man occupied in tertiary education.
+
+Q2: What are the leading countries with the most women working in education? 
+answer:
+after averaging the percentages across all levels of education and ranking them by country we notice that:
+
+-the rates grow in a somewhat linear form from  man dominated to woman dominated. 
+
+-some of the countries with over all male domination in teaching occupations include: central African republic, equatorial Guinea and Afghanistan 
+
+-some of the countries with over all female domination in teaching occupations include: Estonia, Moldova, Armenia and Ukraine. 
+
+/*************************************************************/
+
+Section #6 (maternity leave)
+
+Q1: what is the relationship between the length of the maternity leave and the compensation rate?  
+
+Answer:
+after looking at the maternity leave length against compensation rates we notice no clear trend since most countries offer upward of 50% compensation regardless, but its also worth noting that most countries offer less than 200 days. therefore most points cluster in the upper left portion of the plot. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
